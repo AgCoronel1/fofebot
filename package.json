@@ -1,0 +1,19 @@
+{
+  "name": "botfofe",
+  "version": "1.0.0",
+  "description": "botzinho",
+  "engines": {
+    "node": "12.16.x",
+    "npm": "6.13.4"
+  },
+  "main": "ffbot.js",
+  "scripts": {
+    "start": "node ffbot.js",
+    "test": "aver"
+  },
+  "author": "chch",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
+}
